@@ -1,10 +1,10 @@
-##### Running Tests #####
+# Running Tests
 Unit and feature tests are located in the tests directory. To run the tests, make sure your .env.testing file is configured with the correct database credentials for a test database. Then, use the following command:
 
 php artisan test
 
 
-##### TEST RESULTS ######
+## TEST RESULTS 
 Below are the results from the most recent test run:
 
 > php artisan test
@@ -37,5 +37,5 @@ Below are the results from the most recent test run:
   Duration: 4.75s
 
 
- # Note:
+ ## Note:
 Tests marked as WARN are intentionally skipped. They are example tests by Laravel.
