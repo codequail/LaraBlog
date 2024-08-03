@@ -1,4 +1,4 @@
-#### LaraBlog ####
+# LaraBlog
 LaraBlog is a blogging platform built with Laravel, providing features for creating and managing posts, comments, and users. This project also includes auth-based access control and API endpoints secured with Laravel Passport.
 
 Table of Contents
